@@ -1,7 +1,7 @@
 <h2>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势">
-  I'm Kinoteika~ 🌱
-  </h2>
+  Hi there, I am Kinoteika~ 🌱
+</h2>
 
 #### Platform & Tools
 [![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=for-the-badge&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
