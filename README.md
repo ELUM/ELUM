@@ -9,4 +9,3 @@ JSON         0 secs          ▒░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-![Contribute Profile](./profile-3d-contrib/profile-night-rainbow.svg)
