@@ -1,4 +1,4 @@
-WakaTime:
+📊 WakaTime
 <!--START_SECTION:waka-->
 
 ```txt
