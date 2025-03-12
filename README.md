@@ -36,12 +36,11 @@
 
 - **[blog.kinoteika.com](https://blog.kinoteika.com)**
 
-### 📊 Stats:
+### ⌨️ Stats:
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=ELUM&show_icons=true&theme=buefy&hide_border=true" alt="" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELUM&layout=compact&theme=buefy&hide_border=true" alt="" /> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-📊 WakaTime
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
 
