@@ -6,7 +6,7 @@
 #### Platform & Tools
 [![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=for-the-badge&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
 [![](https://img.shields.io/badge/macOS-Monterey-292e33?style=for-the-badge&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/big-sur/)
-[![](https://img.shields.io/badge/Windows-11-4e9eee?style=for-the-badge&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/windows-10)   
+[![](https://img.shields.io/badge/Windows-10-4e9eee?style=for-the-badge&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/windows-10)   
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 
 #### Languages & Frameworks
