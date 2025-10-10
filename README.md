@@ -48,13 +48,15 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               14 mins             ███████████████████░░░░░░   77.42 % 
+HTML                     4 mins              ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
+SCSS                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  19 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    19 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Vue** 
@@ -70,5 +72,5 @@ Astro                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 09/10/2025 01:55:40 UTC
+ Last Updated on 10/10/2025 01:56:02 UTC
 <!--END_SECTION:waka-->
