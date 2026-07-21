@@ -48,32 +48,32 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Rust                     6 hrs 53 mins       ████████░░░░░░░░░░░░░░░░░   30.89 % 
-Markdown                 5 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   24.76 % 
-TypeScript               3 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
-HTTP                     1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
-Go                       1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
+Markdown                 5 hrs 50 mins       ███████░░░░░░░░░░░░░░░░░░   28.70 % 
+Rust                     4 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   24.08 % 
+TypeScript               3 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
+Go                       1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
+HTTP                     1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
 
 🔥 Editors: 
-VS Code                  22 hrs 8 mins       █████████████████████████   99.24 % 
-Claude Code              10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+VS Code                  20 hrs 20 mins      █████████████████████████   99.89 % 
+Claude Code              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 💻 Operating System: 
-Linux                    22 hrs 18 mins      █████████████████████████   100.00 % 
+Linux                    20 hrs 21 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Vue** 
 
 ```text
-Vue                      8 repos             ████████████░░░░░░░░░░░░░   47.06 % 
-TypeScript               3 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-JavaScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Vue                      7 repos             ████████████░░░░░░░░░░░░░   46.67 % 
+TypeScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+Go                       1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
 ```
 
 
 
 
- Last Updated on 20/07/2026 03:51:43 UTC
+ Last Updated on 21/07/2026 03:31:17 UTC
 <!--END_SECTION:waka-->
