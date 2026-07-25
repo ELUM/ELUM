@@ -48,18 +48,18 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               5 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   30.33 % 
-Markdown                 4 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   28.76 % 
-Rust                     3 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   21.37 % 
-CSS                      53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
-JSON                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
+TypeScript               4 hrs 58 mins       ████████░░░░░░░░░░░░░░░░░   31.30 % 
+Markdown                 4 hrs 51 mins       ████████░░░░░░░░░░░░░░░░░   30.51 % 
+Rust                     3 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   21.78 % 
+CSS                      44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
+Other                    36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 57 mins      █████████████████████████   99.94 % 
+VS Code                  15 hrs 54 mins      █████████████████████████   99.94 % 
 Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 💻 Operating System: 
-Linux                    16 hrs 58 mins      █████████████████████████   100.00 % 
+Linux                    15 hrs 55 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Vue** 
@@ -75,5 +75,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 03:31:05 UTC
+ Last Updated on 25/07/2026 03:28:55 UTC
 <!--END_SECTION:waka-->
