@@ -42,7 +42,7 @@
 | ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-362%20hrs%2052%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-365%20hrs%208%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -50,41 +50,40 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Rust                     4 hrs 40 mins       ████████░░░░░░░░░░░░░░░░░   30.18 % 
-Markdown                 4 hrs 28 mins       ███████░░░░░░░░░░░░░░░░░░   28.94 % 
-TypeScript               4 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   26.14 % 
-HTTP                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
-CSS                      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+Rust                     5 hrs 24 mins       █████████░░░░░░░░░░░░░░░░   34.67 % 
+Markdown                 4 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   28.34 % 
+TypeScript               2 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   18.83 % 
+HTTP                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+Docker                   31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 27 mins      █████████████████████████   99.93 % 
-Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+VS Code                  15 hrs 35 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    15 hrs 27 mins      █████████████████████████   100.00 % 
+Linux                    15 hrs 35 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 49 mins (89.4%)
+⏱ AI Coding Time: 14 hrs 27 mins (92.76%)
 
-✍️ 7,272 lines written by AI, 249 lines written by hand (96.69% AI-written)
+✍️ 6,768 lines written by AI, 157 lines written by hand (97.73% AI-written)
 
-🔤 69,412,820 Input Tokens, 562,311 Output Tokens
+🔤 70,915,007 Input Tokens, 611,601 Output Tokens
 
-💵 $216.67 Estimated AI Cost This Week
+💵 $221.92 Estimated AI Cost This Week
 
-🧠 34 AI Sessions, 126 AI Prompts
+🧠 32 AI Sessions, 119 AI Prompts
 
-Glm                      7,314 lines         █████████████████████████   100.00 % 
+Glm                      6,831 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.69% of written lines came from AI
-📝 Concise Prompter — average 50 characters per prompt
+🤖 AI-Driven — 97.73% of written lines came from AI
+📝 Concise Prompter — average 62 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 9.29% of changed lines were hand-edited
+🚀 High AI Trust — 2.51% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Vue** 
@@ -100,5 +99,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/07/2026 03:22:57 UTC
+ Last Updated on 29/07/2026 03:24:31 UTC
 <!--END_SECTION:waka-->
