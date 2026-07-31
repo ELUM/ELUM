@@ -42,7 +42,7 @@
 | ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-365%20hrs%208%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-371%20hrs%2021%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -50,40 +50,40 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Rust                     4 hrs 47 mins       ██████████░░░░░░░░░░░░░░░   41.89 % 
-Markdown                 3 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   26.53 % 
-TypeScript               57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
-HTTP                     43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
-Docker                   31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+Rust                     6 hrs 10 mins       ███████████░░░░░░░░░░░░░░   44.18 % 
+Markdown                 3 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   25.09 % 
+HTTP                     1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
+TypeScript               57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
+TOML                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 25 mins      █████████████████████████   100.00 % 
+VS Code                  13 hrs 58 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    11 hrs 25 mins      █████████████████████████   100.00 % 
+Linux                    13 hrs 58 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 52 mins (95.25%)
+⏱ AI Coding Time: 13 hrs 17 mins (95.12%)
 
-✍️ 4,740 lines written by AI, 11 lines written by hand (99.77% AI-written)
+✍️ 9,009 lines written by AI, 11 lines written by hand (99.88% AI-written)
 
-🔤 52,096,836 Input Tokens, 479,550 Output Tokens
+🔤 116,636,403 Input Tokens, 850,575 Output Tokens
 
-💵 $163.48 Estimated AI Cost This Week
+💵 $362.67 Estimated AI Cost This Week
 
-🧠 25 AI Sessions, 96 AI Prompts
+🧠 34 AI Sessions, 142 AI Prompts
 
-Glm                      4,785 lines         █████████████████████████   100.00 % 
+Glm                      9,872 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.77% of written lines came from AI
-📝 Concise Prompter — average 72 characters per prompt
+🤖 AI-Driven — 99.88% of written lines came from AI
+📄 Detailed Prompter — average 550 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.48% of changed lines were hand-edited
+🚀 High AI Trust — 0.23% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Vue** 
@@ -99,5 +99,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/07/2026 03:12:49 UTC
+ Last Updated on 31/07/2026 03:39:45 UTC
 <!--END_SECTION:waka-->
