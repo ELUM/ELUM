@@ -50,40 +50,40 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Rust                     6 hrs 10 mins       ███████████░░░░░░░░░░░░░░   44.18 % 
-Markdown                 3 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   25.09 % 
-HTTP                     1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
-TypeScript               57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
-TOML                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+Rust                     5 hrs 25 mins       ████████████░░░░░░░░░░░░░   47.28 % 
+Markdown                 2 hrs 59 mins       ███████░░░░░░░░░░░░░░░░░░   26.07 % 
+HTTP                     1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+TOML                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
+Docker                   31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 58 mins      █████████████████████████   100.00 % 
+VS Code                  11 hrs 29 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    13 hrs 58 mins      █████████████████████████   100.00 % 
+Linux                    11 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 17 mins (95.12%)
+⏱ AI Coding Time: 11 hrs 19 mins (98.63%)
 
-✍️ 9,009 lines written by AI, 11 lines written by hand (99.88% AI-written)
+✍️ 8,654 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 116,636,403 Input Tokens, 850,575 Output Tokens
+🔤 105,182,389 Input Tokens, 747,584 Output Tokens
 
-💵 $362.67 Estimated AI Cost This Week
+💵 $326.76 Estimated AI Cost This Week
 
-🧠 34 AI Sessions, 142 AI Prompts
+🧠 27 AI Sessions, 113 AI Prompts
 
-Glm                      9,872 lines         █████████████████████████   100.00 % 
+Glm                      9,499 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.88% of written lines came from AI
-📄 Detailed Prompter — average 550 characters per prompt
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 684 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.23% of changed lines were hand-edited
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Vue** 
@@ -99,5 +99,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/07/2026 03:39:45 UTC
+ Last Updated on 01/08/2026 03:39:12 UTC
 <!--END_SECTION:waka-->
