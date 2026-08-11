@@ -50,39 +50,19 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-KDL                      22 mins             ████████████░░░░░░░░░░░░░   49.51 % 
-Other                    11 mins             ██████░░░░░░░░░░░░░░░░░░░   25.87 % 
-Bash                     9 mins              █████░░░░░░░░░░░░░░░░░░░░   21.85 % 
-Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  31 mins             █████████████████░░░░░░░░   69.32 % 
-Claude Code              13 mins             ████████░░░░░░░░░░░░░░░░░   30.68 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    44 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 38 mins (85.77%)
-
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
-
-🔤 982,172 Input Tokens, 6,633 Output Tokens
-
-💵 $1.93 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 10 AI Prompts
-
-Glm                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 225 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Vue** 
@@ -98,5 +78,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/08/2026 02:24:11 UTC
+ Last Updated on 11/08/2026 02:17:48 UTC
 <!--END_SECTION:waka-->
